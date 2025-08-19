@@ -34,7 +34,7 @@ Installation
 Clone the repository:
 
 Bash
-
+      
 git clone https://github.com/luna79/music-app2.git
 cd your-repo-name
 Install the project dependencies:
@@ -50,5 +50,8 @@ Bash
 npm run dev
 
 The application will be available at http://localhost:5173.
+
+Link to vercel https://music-app2-git-main-claudias-projects-b1333925.vercel.app/
+
 
 Note: AI was used for this project.

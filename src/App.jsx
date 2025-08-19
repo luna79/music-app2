@@ -116,7 +116,7 @@ const App = () => {
             className="w-16 h-16 rounded-full"
           />
           <div>
-            <h1 className="text-2xl font-bold">Lofi Radio</h1>
+            <h1 className="text-2xl font-bold">Lofi Radiooooo</h1>
             <p className="text-sm text-neutral-400">@lofi-beats</p>
           </div>
         </div>
